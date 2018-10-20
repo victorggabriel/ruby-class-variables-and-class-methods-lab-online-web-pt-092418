@@ -33,7 +33,7 @@ class Song
   def genre_count
     genres = Hash.new
     binding.pry
-    genres[@@genres] 
+    genres[@@genres]
 
   end
 
