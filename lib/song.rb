@@ -30,7 +30,9 @@ class Song
     @@genres.uniq
   end
 
-  def genre_songz
+  def genre_song
+    
+  end  
 
-  
+
 end
