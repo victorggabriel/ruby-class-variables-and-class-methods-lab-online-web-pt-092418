@@ -30,9 +30,12 @@ class Song
     @@genres.uniq
   end
 
-  def genre_song
+  def genre_count
+    genres = Hash.new
+
     
-  end  
+    
+  end
 
 
 end
