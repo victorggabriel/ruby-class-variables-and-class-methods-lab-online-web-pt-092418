@@ -30,9 +30,6 @@ class Song
     @@genres.uniq
   end
 
-  def genre_count
-    binding.pry
-  end
-
+  binding.pry
 
 end
