@@ -30,8 +30,11 @@ class Song
     @@genres.uniq
   end
 
-  def genre_count
+  def self.genre_count
     genre = {}
-  end  
+
+    
+    
+  end
 
 end
