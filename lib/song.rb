@@ -31,10 +31,11 @@ class Song
   end
 
   def self.genre_count
-    genre = {}
+    genre_count = {}
 
-    
-    
+    genre_count.each do |key, value|
+      
+
   end
 
 end
