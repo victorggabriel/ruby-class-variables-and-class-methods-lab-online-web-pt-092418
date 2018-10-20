@@ -34,7 +34,7 @@ class Song
     genre_count = {}
 
     genre_count.each do |key, value|
-      
+        binding.pry
     end
   end
 
